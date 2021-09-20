@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h4>Brother, Son, Python Developer, DevOps Engineer, Crypto Enthusiast and Climber.</h4>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a>
@@ -25,7 +25,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github:
+  github: "https://github.com/theref"
   google_plus:
   instagram:
   linkedin:  "https://www.linkedin.com/in/james-campbell-99635478/"
